@@ -1,0 +1,24 @@
+{
+  "name": "awesome-astro-list-component",
+  "version": "0.0.1",
+  "description": "A List component for your project with svg elements.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markteekman/accessible-astro-components.git"
+  },
+  "keywords": [
+    "astro-component",
+    "astro-components",
+    "accessible",
+    "svg component",
+    "list component",
+    "responsive"
+  ],
+  "author": "Sukhpreet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markteekman/accessible-astro-components/issues"
+  },
+  "homepage": "https://github.com/markteekman/accessible-astro-components#readme"
+}
