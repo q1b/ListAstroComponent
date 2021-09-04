@@ -1,6 +1,6 @@
 # List Astro Components
 A Simple to use but beautiful html list like component . 
-[Take a look at it](), 
+[Take a look at it](https://divyamrit.netlify.app/blogs/customlistcomponent/),
 
 ## Installation
 Run the following command in your project folder to get started:
@@ -14,7 +14,7 @@ npm install astro-list-component
 ---
 import AwesomeList from 'astro-list-component'
 ---
-<AwesomeList title="FirstTry" items={[
+<AwesomeList  priColor="rgba(148, 163, 184, 1)", secColor = "rgba(100, 116, 139,1)" title="FirstTry" items={[
     'Designed UI',
     'Used Flutter dart'
   ]} >
